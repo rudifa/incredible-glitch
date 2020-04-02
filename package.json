@@ -1,0 +1,18 @@
+{
+  "name": "hello-lit-element",
+  "private": true,
+  "version": "0.0.1",
+  "description": "A Sample LitElement",
+  "scripts": {
+    "start": "polymer serve",
+    "watch": "es-dev-server --app-index index.html --node-resolve --preserve-symlinks --open --watch"
+  },
+  "dependencies": {
+    "lit-element": "^2.0.0",
+    "polymer-cli": "latest",
+    "@webcomponents/webcomponentsjs": "latest"
+  },
+  "engines": {
+    "node": "10.x"
+  }
+}
