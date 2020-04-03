@@ -4,8 +4,7 @@
   "version": "0.0.1",
   "description": "A Sample LitElement",
   "scripts": {
-    "start": "polymer serve",
-    "watch": "es-dev-server --app-index index.html --node-resolve --preserve-symlinks --open --watch"
+    "start": "polymer serve"
   },
   "dependencies": {
     "lit-element": "^2.0.0",
